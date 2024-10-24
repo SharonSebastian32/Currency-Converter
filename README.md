@@ -30,7 +30,7 @@ This project is a **Currency Converter** web application built using **React.js*
 - **Tailwind CSS**: Utility-first CSS framework for styling the application.
 - **Custom Hooks**: Utilized to fetch and manage currency data.
 - **JavaScript (ES6+)**: The core programming language used to develop the application.
-- **OpenAPI: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json
+- **OpenAPI** : (#https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json)
 
 ## Getting Started
 
